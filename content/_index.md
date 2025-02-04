@@ -2,7 +2,7 @@
 action_label: Read my work &rarr;
 action_link: /publications
 action_type: text
-description: I'm an experimental psychologist whose research bridges the motivation and cognitive sciences. In this intersectional space, I examine the relationship between instruction, motivation, and learning, seeking to understand how educators can help students develop academic interests, persist in academic settings, and reach their potential. To date, most of my work has taken place in the context of science, technology, engineering, and math (STEM) fields.
+description: I am an experimental psychologist who studies how instructors can motivate their students to engage and persist in academic environments. By combining tools from social psychology (e.g., interventions that target students’ beliefs) and cognitive science (e.g., models of learning), and integrating them into curricula and educational technology, I aim to develop interventions that are easy to adopt, that change students’ stubborn and harmful beliefs about academic ability and the value of education, and that motivate students to repeatedly engage with academic content over time.
 image_left: true
 images:
 - img/squarephoto.jpg
