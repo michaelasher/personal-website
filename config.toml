@@ -1,9 +1,9 @@
-baseURL = "https://www.example.org/"
+baseURL = "https://www.michaelasher.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Michael Asher"
 author = "Michael Asher"
-copyright = "" # set to override the auto generated copyright using org info and now year
+copyright = "Michael Asher" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 #disqusShortname = "" # see params.comments to use utterances or giscus instead of Disqus
 metaDataFormat = "yaml"
