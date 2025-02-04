@@ -12,7 +12,7 @@ show_title_as_headline: false
 
 # Preprints
 
-**Asher, M. W.**, Hartman, J. D., Blaser, M., Eichler, J. F., & Carvalho, P. F. (under review). The Promise of Mastery-Based Testing for Promoting Student Engagement, Self-Regulated Learning, and Performance in Gateway STEM Courses. https://doi.org/10.31219/osf.io/5j84t
+**Asher, M. W.**, Hartman, J. D., Blaser, M., Eichler, J. F., & Carvalho, P. F. (under review). The promise of mastery-based testing for promoting student engagement, self-regulated learning, and performance in gateway STEM courses. https://doi.org/10.31219/osf.io/5j84t
 
 Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Skip the reading assignment: Effective and efficient learning with only practice and feedback. https://osf.io/preprints/osf/9y2tb
 
@@ -22,9 +22,9 @@ Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Sk
 
 # 2024
 
-**Asher, M. W.**, & Harackiewicz, J. M. (2024). Using Utility Value and Choice to Promote Interest in Statistics: Effects on Initial and Deeper Phases of Interest Development. *Journal of Educational Psychology.* https://doi.org/10.1037/edu0000921 [[pdf]](/publications/asher_harackiewicz_2024_jep.pdf)
+**Asher, M. W.**, & Harackiewicz, J. M. (2024). Using utility value and choice to promote interest in statistics: Effects on initial and deeper phases of interest development. *Journal of Educational Psychology.* https://doi.org/10.1037/edu0000921 [[pdf]](/publications/asher_harackiewicz_2024_jep.pdf)
 
-**Asher, M. W.**, Sana, F., Koedinger, K.R., & Carvalho, P.F. (2024). Students Can Learn More Efficiently When Lectures Are Replaced with Practice Opportunities and Feedback. *Proceedings of the Annual Meeting of the Cognitive Science Society, 46.* [[link]](https://escholarship.org/content/qt7p16r9xk/qt7p16r9xk_noSplash_5523aeea52976181855830ab0366c9f3.pdf?t=sfdr4y)
+**Asher, M. W.**, Sana, F., Koedinger, K.R., & Carvalho, P.F. (2024). Students can learn more efficiently when lectures are replaced with practice opportunities and feedback. *Proceedings of the Annual Meeting of the Cognitive Science Society, 46.* [[link]](https://escholarship.org/content/qt7p16r9xk/qt7p16r9xk_noSplash_5523aeea52976181855830ab0366c9f3.pdf?t=sfdr4y)
 
 # 2023
 
