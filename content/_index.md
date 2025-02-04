@@ -2,7 +2,7 @@
 action_label: Read my work &rarr;
 action_link: /publications
 action_type: text
-description: I am an experimental psychologist studying how instructors can motivate students to engage and persist in academic environments. By combining tools from social psychology and cognitive science and using them to adapt curricula and develop educational technology, I aim to develop theory-based interventions that are easy to adopt, that challenge students’ stubborn and self-limiting beliefs about academic ability and the value of education, and that foster sustained engagement with academic content over time.
+description: I am an experimental psychologist studying how instructors can motivate students to engage and persist in academic environments. By combining tools from social psychology and cognitive science and using them to adapt curricula and develop educational technology, I aim to develop theory-based interventions that are easy to adopt at scale, that challenge students’ stubborn and self-limiting beliefs about academic ability and the value of education, and that foster sustained engagement with academic content over time.
 image_left: true
 images:
 - img/squarephoto.jpg
