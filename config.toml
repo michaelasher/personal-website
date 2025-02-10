@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "Anywhere"
   description = "Experimental Psychologist."
   favicon = "/img/favicon_m.png"
-  logo = "/img/ma_helvetica_large.png"
+  logo = "/img/inits.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
