@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 author: "Michael Asher"
-date: "2025-02-04"
+date: "2025-03-14"
 output:
   html_document:
     df_print: paged
@@ -18,7 +18,10 @@ Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Sk
 
 # 2025
 
-**Asher, M. W.**, Sana, F., Koedinger, K. R., Carvalho, P. F. (2025). Practice with feedback vs. lecture: Consequences for learning, efficiency, and motivation. *Journal of Applied Research in Memory and Cognition.* https://doi.org/10.31234/osf.io/kft8u [[pdf]](/publications/asher_et_al_2025_jarmac.pdf)
+**Asher, M. W.**, Hecht, C. A., Harackiewicz, J. M., Curtin, J. J., Parrisius, C., & Nagengast, B.  (in press). Why elusive expectancy × value interactions may be critical for theory and
+intervention: A simulated power analysis. *Motivation Science.* [[pdf]](/publications/asher_et_al_inpress_motsci.pdf)
+
+**Asher, M. W.**, Sana, F., Koedinger, K. R., & Carvalho, P. F. (2025). Practice with feedback vs. lecture: Consequences for learning, efficiency, and motivation. *Journal of Applied Research in Memory and Cognition.* https://doi.org/10.31234/osf.io/kft8u [[pdf]](/publications/asher_et_al_2025_jarmac.pdf)
 
 # 2024
 
