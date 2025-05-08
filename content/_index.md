@@ -8,7 +8,7 @@ images:
 - img/squarephoto.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Postdoctoral Fellow, Carnegie Mellon University
+subtitle: Project Scientist, Carnegie Mellon University
 text_align_left: false
 title: Michael Asher
 type: home
