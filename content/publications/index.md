@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 author: "Michael Asher"
-date: "2025-06-23"
+date: "2025-10-19"
 output:
   html_document:
     df_print: paged
@@ -12,9 +12,15 @@ show_title_as_headline: false
 
 # Preprints
 
+**Asher, M. W.**, Gold, G., Chen, E., & Carvalho, P.F. (under review). Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting AI-assisted cheating with a keystroke-based tool. https://doi.org/10.31219/osf.io/a3pzx_v1
+
+**Asher, M. W.**, & Carvalho, P.F. (under review). Conditions for effective learning without upfront instruction: How practice with feedback supports memory, generalization, motivation, and metacognition. https://doi.org/10.31219/osf.io/m763t_v1
+
 Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Skip the reading assignment: Effective and efficient learning with only practice and feedback. https://osf.io/preprints/osf/9y2tb
 
 # 2025
+
+**Asher, M. W.**, Kwon, C., Stamper, J., Ogan, A., & Carvalho, P. F. (2025). Validating a new approach for measuring student engagement in remote, low-infrastructure learning environments. *Proceedings of the 2025 ACM Conference on Learning at Scale.* https://doi.org/10.1145/3698205.3729556 **Best Paper Award**
 
 **Asher, M. W.**, Hartman, J. D., Blaser, M., Eichler, J. F., & Carvalho, P. F. (2025). The promise of mastery-based testing for promoting student engagement, self-regulated learning, and performance in gateway STEM courses. *Computers & Education* https://doi.org/10.1016/j.compedu.2025.105387 [[pdf]](/publications/asher_et_al_2025_ce.pdf)
 
