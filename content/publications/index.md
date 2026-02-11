@@ -1,7 +1,7 @@
 ---
-title: "Publications"
+title: "Selected Publications"
 author: "Michael Asher"
-date: "2025-10-19"
+date: "2026-02-11"
 output:
   html_document:
     df_print: paged
@@ -12,11 +12,13 @@ show_title_as_headline: false
 
 # Preprints
 
-**Asher, M. W.**, Gold, G., Chen, E., & Carvalho, P.F. (under review). Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting AI-assisted cheating with a keystroke-based tool. https://doi.org/10.31219/osf.io/a3pzx_v1
-
-**Asher, M. W.**, & Carvalho, P.F. (under review). Conditions for effective learning without upfront instruction: How practice with feedback supports memory, generalization, motivation, and metacognition. https://doi.org/10.31219/osf.io/m763t_v1
-
 Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Skip the reading assignment: Effective and efficient learning with only practice and feedback. https://osf.io/preprints/osf/9y2tb
+
+# 2026
+
+**Asher, M. W.**, Gold, G., Chen, E., & Carvalho, P.F. (in press). Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting AI-assisted cheating with a keystroke-based tool. *Advances in Methods and Practices in Psychological Science* https://doi.org/10.31219/osf.io/a3pzx_v1
+
+**Asher, M. W.**, & Carvalho, P.F. (2026). Conditions for effective learning without upfront instruction: How practice with feedback supports memory, generalization, motivation, and metacognition. *Educational Psychology Review* https://doi.org/10.1007/s10648-025-10103-6 [[pdf]](/publications/asher_et_al_2026_edpr.pdf)
 
 # 2025
 
