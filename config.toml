@@ -114,8 +114,8 @@ enableEmoji = true
     url = "//"
     weight = 1
   [[menu.header]]
-    name = "Publications"
-    title = "Publications"
+    name = "Selected Publications"
+    title = "Selected Publications"
     url = "/publications/"
     weight = 2
   [[menu.header]]

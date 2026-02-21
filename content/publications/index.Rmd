@@ -18,7 +18,7 @@ Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Sk
 
 **Asher, M. W.**, Gold, G., Chen, E., & Carvalho, P.F. (in press). Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting AI-assisted cheating with a keystroke-based tool. *Advances in Methods and Practices in Psychological Science* https://doi.org/10.31219/osf.io/a3pzx_v1
 
-**Asher, M. W.**, & Carvalho, P.F. (2026). Conditions for effective learning without upfront instruction: How practice with feedback supports memory, generalization, motivation, and metacognition. *Educational Psychology Review* https://doi.org/10.1007/s10648-025-10103-6 [[pdf]](/publications/asher_et_al_2026_edpr.pdf)
+**Asher, M. W.**, & Carvalho, P.F. (2026). Conditions for effective learning without upfront instruction: How practice with feedback supports memory, generalization, motivation, and metacognition. *Educational Psychology Review* https://doi.org/10.1007/s10648-025-10103-6 [[pdf]](/publications/asher_carvalho_2026_edpr.pdf)
 
 # 2025
 
