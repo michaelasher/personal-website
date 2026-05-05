@@ -1,7 +1,7 @@
 ---
 title: "Selected Publications"
 author: "Michael Asher"
-date: "2026-02-21"
+date: "2026-05-05"
 output:
   html_document:
     df_print: paged
@@ -16,7 +16,9 @@ Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Sk
 
 # 2026
 
-**Asher, M. W.**, Gold, G., Chen, E., & Carvalho, P.F. (in press). Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting AI-assisted cheating with a keystroke-based tool. *Advances in Methods and Practices in Psychological Science* https://doi.org/10.31219/osf.io/a3pzx_v1
+**Asher, M. W.**, Wei, Y., Reynolds, A. D., Ogan, A., & Carvalho, P. F. (2026). Will They Try Again? A Large-Scale RCT on Scaffolds that Support Persistence in an Intelligent Tutoring System. In *CHI Conference on Human Factors in Computing Systems (CHI '26)* https://doi.org/10.1145/3772318.3791885 [[pdf]](/publications/asher_et_al_2026_chi.pdf) **Honorable Mention Award**
+
+**Asher, M. W.**, Gold, G., Chen, E., & Carvalho, P.F. (2026). Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting Artifical Intelligence-assisted cheating with a keystroke-based tool. *Advances in Methods and Practices in Psychological Science, 9*(1) https://doi.org/10.1177/25152459261424723 [[pdf]](/publications/asher_et_al_2026_ampps.pdf)
 
 **Asher, M. W.**, & Carvalho, P.F. (2026). Conditions for effective learning without upfront instruction: How practice with feedback supports memory, generalization, motivation, and metacognition. *Educational Psychology Review* https://doi.org/10.1007/s10648-025-10103-6 [[pdf]](/publications/asher_carvalho_2026_edpr.pdf)
 

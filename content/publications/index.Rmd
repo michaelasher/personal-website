@@ -12,11 +12,11 @@ show_title_as_headline: false
 
 # Preprints
 
-**Asher, M. W.**, Wei, Y., Reynolds, A. D., Ogan, A., & Carvalho, P. F. (in press). Will They Try Again? A Large-Scale RCT on Scaffolds that Support Persistence in an Intelligent Tutoring System. In CHI Conference on Human Factors in Computing Systems (CHI '26), April 13-17, 2026, Barcelona, Spain. **Honorable Mention Award** https://osf.io/preprints/psyarxiv/bf287_v1 
-
 Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Skip the reading assignment: Effective and efficient learning with only practice and feedback. https://osf.io/preprints/osf/9y2tb
 
 # 2026
+
+**Asher, M. W.**, Wei, Y., Reynolds, A. D., Ogan, A., & Carvalho, P. F. (2026). Will They Try Again? A Large-Scale RCT on Scaffolds that Support Persistence in an Intelligent Tutoring System. In *CHI Conference on Human Factors in Computing Systems (CHI '26)* https://doi.org/10.1145/3772318.3791885 [[pdf]](/publications/asher_et_al_2026_chi.pdf) **Honorable Mention Award**
 
 **Asher, M. W.**, Gold, G., Chen, E., & Carvalho, P.F. (2026). Chatbots are undermining crowdsourced research in the behavioral sciences: Detecting Artifical Intelligence-assisted cheating with a keystroke-based tool. *Advances in Methods and Practices in Psychological Science, 9*(1) https://doi.org/10.1177/25152459261424723 [[pdf]](/publications/asher_et_al_2026_ampps.pdf)
 
