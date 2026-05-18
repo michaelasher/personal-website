@@ -1,7 +1,7 @@
 ---
 title: "Selected Publications"
 author: "Michael Asher"
-date: "2026-05-05"
+date: "2026-05-18"
 output:
   html_document:
     df_print: paged
@@ -29,7 +29,7 @@ Carvalho, P.F., **Asher, M. W.**, Sana, F. & Koedinger, K. R. (under review). Sk
 **Asher, M. W.**, Hartman, J. D., Blaser, M., Eichler, J. F., & Carvalho, P. F. (2025). The promise of mastery-based testing for promoting student engagement, self-regulated learning, and performance in gateway STEM courses. *Computers & Education* https://doi.org/10.1016/j.compedu.2025.105387 [[pdf]](/publications/asher_et_al_2025_ce.pdf)
 
 **Asher, M. W.**, Hecht, C. A., Harackiewicz, J. M., Curtin, J. J., Parrisius, C., & Nagengast, B.  (in press). Why elusive expectancy × value interactions may be critical for theory and
-intervention: A simulated power analysis. *Motivation Science.* [[pdf]](/publications/asher_et_al_inpress_motsci.pdf)
+intervention: A simulated power analysis. *Motivation Science.* [[pdf]](/publications/asher_et_al_2025_motsci.pdf)
 
 **Asher, M. W.**, Sana, F., Koedinger, K. R., & Carvalho, P. F. (2025). Practice with feedback vs. lecture: Consequences for learning, efficiency, and motivation. *Journal of Applied Research in Memory and Cognition.* https://doi.org/10.31234/osf.io/kft8u [[pdf]](/publications/asher_et_al_2025_jarmac.pdf)
 
